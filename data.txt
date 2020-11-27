@@ -1,0 +1,41 @@
+[
+  {
+    "country": "UAE",
+    "city": "Dubai",
+    "address": "Dubai Mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        25.1973,
+        55.2793
+      ]
+    }
+  },
+   {
+    "country": "UAE",
+    "city": "Dubai",
+    "address": "Trade Center Bulding",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        25.223804,
+        55.28456
+      ]
+    }
+  },
+   {
+    "country": "UAE",
+    "city": "Dubai",
+    "address": "Burj Khalifa",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        25.197233,
+        55.274147
+      ]
+    }
+  }
+]
+
++ lat =north   -lat=south
++long=east     -long=west
